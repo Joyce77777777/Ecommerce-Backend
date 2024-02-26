@@ -3,6 +3,9 @@
 ## Overview
 In the ever-evolving electronics industry, e-commerce has become a cornerstone, enabling businesses and consumers to buy and sell products online with ease. With the industry's value hitting US$2.54 trillion in the United States as of 2021, understanding the architecture behind these platforms is crucial for developers. This project challenges you to build the back end for an e-commerce site, leveraging Express.js and Sequelize to interact with a MySQL database, thereby equipping your internet retail company to stand tall among competitors.
 
+## Demo
+A video walkthrough of this project can be found here: https://drive.google.com/file/d/1PHHy8Ldhr7P1Umjflp0nGp4q7BiXgGOc/view
+
 ## User Story
 ```
 AS A manager at an internet retail company
@@ -45,4 +48,6 @@ To get started, ensure you have MySQL2 and Sequelize packages installed to conne
 - **mysql2**: `^2.1.0`
 - **sequelize**: `^5.21.7`
 
+## Repository
+This repo is located here: https://github.com/Joyce77777777/Ecommerce-Backend/
 
